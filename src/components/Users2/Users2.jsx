@@ -7,6 +7,7 @@ const Users2 = ({users2Promise}) => {
     return (
         <div>
             <h2>This is Users2</h2>
+           
         </div>
     );
 };
